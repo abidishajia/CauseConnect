@@ -1,0 +1,26 @@
+.signUpHeader{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.signUpPage{
+    width: 75%;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.signUpForm{
+    width: 100%;
+    border: 2px solid #CCC;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.signUpFooter{
+ margin-top: 40px;
+  
+}
